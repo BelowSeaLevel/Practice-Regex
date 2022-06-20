@@ -1,0 +1,14 @@
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.exe.config
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.exe
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.pdb
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.csprojAssemblyReference.cache
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.exe
+C:\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.pdb
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.exe.config
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.exe
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\bin\Debug\Regex Regular Expression.pdb
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.csproj.AssemblyReference.cache
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.csproj.SuggestedBindingRedirects.cache
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.exe
+E:\Coding\CSharp Oefen Projects\Regex Regular Expression\Regex Regular Expression\obj\Debug\Regex Regular Expression.pdb
